@@ -1,3 +1,0 @@
-Table No: 2, Name: KAI SEN, Pax: 3, Tel: 163211234, Date: 2024-04-01, Time: 14:00:00, Comment: Prepare Baby Chair
-Table No: 3, Name: DICKSEN , Pax: 5, Tel: 1891344567, Date: 2024-04-30, Time: 20:00:00, Comment: Vegan 
-Table No: 6, Name: Zhi Jane, Pax: 1, Tel: 122242352, Date: 2024-04-19, Time: 17:00:00, Comment: Birthday
