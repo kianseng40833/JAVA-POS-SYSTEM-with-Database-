@@ -34,7 +34,7 @@ public class History extends JFrame implements ItemListener{
         // Create components
         JButton homeButton = new JButton("");
 
-        ImageIcon homeImage = new ImageIcon("C://Users//USER//OneDrive - S Seri Kledang//SkuLLLL//Semester 5//Java 2//Assignment//POS_System_Project (Function Done)//POS_System_Project//version 2.3//POS_System_Project//src//main//java//com//Dickson//GUI//Image//homeButton1.png");
+        ImageIcon homeImage = new ImageIcon("");
         Image scaledHome = homeImage.getImage().getScaledInstance(50, 50, Image.SCALE_SMOOTH); 
 
         homeButton = new JButton("");
