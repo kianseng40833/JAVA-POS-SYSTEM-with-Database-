@@ -7,3 +7,4 @@ This POS System might include some unfixed bugs, any recommendation from public 
 Open to maintenance and modifications. OPEN SOURCE!!
 
 from Shieldedseng, 2024 June.
+![Tumbnails](https://github.com/kianseng40833/JAVA-POS-SYSTEM-with-Database-/assets/132328251/eab15b22-b206-4b90-a563-8a202175404d)
